@@ -4,14 +4,20 @@
 // Review
 // So far we are familiar with the following code, lets review
 
-let testVar = "Hello World"; // Declare testVar, and store the phrase "Hello World" in it
+// let testVar = "Hello World"; 
+// Declare testVar, and store the phrase "Hello World" in it
 
-let testArray = []; // Declare an array called testArray
-let testDict = {};  // Declare a dictionary called testDict
+// let testArray = []; 
+// Declare an array called testArray
 
-testArray.push(testVar); // TestVar goes in testArray
+// let testDict = {};
+// Declare a dictionary called testDict
 
-console.log(testArray); // show or log test testArray to the screen
+// testArray.push(testVar);
+// TestVar goes in testArray
+
+// console.log(testArray);
+// show or log test testArray to the screen
 
 
 //              Dictionaries
@@ -19,7 +25,7 @@ console.log(testArray); // show or log test testArray to the screen
 
 // Now lets add testArray to our dictionary testDict. 
 
-//Lets pretend we're building a chat application that stores chat messages. We have our first message "Hello World", lets add it to our dictionary testDict and give it a key of "Message1" with the value of testArray.
+// Lets pretend we're building a chat application that stores chat messages. We have our first message "Hello World", lets add it to our dictionary testDict and give it a key of "Message1" with the value of testArray.
 
 testDict = {
     "Message1": testArray
