@@ -13,7 +13,8 @@ testArray.push(testVar); // TestVar goes in testArray
 
 console.log(testArray); // show or log test testArray to the screen
 
-// Dictionaries
+
+//              Dictionaries
 // Key-Value Pairs
 
 // Now lets add testArray to our dictionary testDict. 
