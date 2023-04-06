@@ -34,4 +34,4 @@ testDict = {
 console.log(testDict["Message1"]);
 // Read Message1 to console
 
-console.log(testDict.Message);
+console.log(testDict.Message1);
