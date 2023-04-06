@@ -1,5 +1,5 @@
 //              Lesson 6
-//  Dictionaries cont
+//              Dictionaries cont
 
 // Review
 // So far we are familiar with the following code, lets review
@@ -27,11 +27,13 @@ testDict = {
 };
 // add Messages into testDict
 
-// Dictionaries cont
+//              Dictionaries cont
 
 // Dictionaries can be read from and added to in the following ways.
 
 console.log(testDict["Message1"]);
+
+
 // Read Message1 to console
 
 console.log(testDict.Message1);

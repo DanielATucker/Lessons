@@ -1,5 +1,5 @@
 //              Lesson 2
-// Arrays
+//              Arrays
 
 
 // Review
@@ -8,7 +8,7 @@
 let testMessage1 = "Hello World";
 
 
-// Arrays
+//              Arrays
 
 // [] = Array
 

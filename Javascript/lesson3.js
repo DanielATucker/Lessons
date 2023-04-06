@@ -1,5 +1,5 @@
 //              Lesson 3
-// Arrays cont
+//              Arrays cont
 
 
 // Review
@@ -14,7 +14,7 @@ testArray.push(testMessage1);
 // TestVar goes in TestMessage1
 
 
-// Arrays
+//              Arrays
 
 // Variables are stored in a array as a list. To show this, lets add 2 more variables to the array and see how it looks. 
 

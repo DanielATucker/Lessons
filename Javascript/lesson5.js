@@ -1,5 +1,5 @@
 //              Lesson 5
-//  Dictionaries
+//              Dictionaries
 
 // Review
 // So far we are familiar with the following code, lets review
