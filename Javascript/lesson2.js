@@ -1,39 +1,27 @@
 //              Lesson 2
-//  Dictionaries
+// Arrays
+
 
 // Review
 // So far we are familiar with the following code, lets review
 
-// let testVar = "Hello World"; 
-// Declare testVar, and store the phrase "Hello World" in it
-
-// let testArray = []; 
-// Declare an array called testArray
-
-// let testDict = {};
-// Declare a dictionary called testDict
-
-// testArray.push(testVar);
-// TestVar goes in testArray
-
-// console.log(testArray);
-// show or log test testArray to the screen
+let testMessage1 = "Hello World";
 
 
-//              Dictionaries
-// Key-Value Pairs
+// Arrays
 
-// Now lets add testArray to our dictionary testDict. 
+// [] = Array
 
-// Lets pretend we're building a chat application that stores chat messages. We have our first message "Hello World", lets add it to our dictionary testDict and give it a key of "Message1" with the value of testArray.
+// When you declare an array, you give it a name, which is also a variable. 
 
-testDict = {
-    "Message1": testArray
-};
+let testArray = []; // Notice the []
 
-// Easy Right?
+// To store the variable testVar in the array testArray, use the following code .push()
 
-// Now lets show or work, or log it to the console.
-// Tip: to get more detail on a dictionary, use the code JSON.stringify(testDict, null, 2)
+testArray.push(testMessage1); // TestVar goes in TestMessage1
 
-console.log(JSON.stringify(testDict, null, 2));
+// Now testArray should contain testMessage1, which contains the phrase "Hello World"
+
+// Next, we will show testArray to the console, with console.log()
+
+console.log(testArray);

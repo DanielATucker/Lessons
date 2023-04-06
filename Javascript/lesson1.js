@@ -1,32 +1,15 @@
 //              Lesson 1
-// Variables, arrays and Dictionaries
+// Variables
 
 
 // Variables
 
-// To store phrase "Hello World" in the variable testVar use the code let, and end it with a ;
+// A variable is a way to store data. Every variable has a name, and a value. 
 
-let testVar = "Hello World";
+// To store phrase or string (Identified by "") "Hello World" in the variable testVar use the code let, and end it with a ;
 
+let testMessage1 = "Hello World"; // Variable name is testMessage1
 
-// Arrays and dictionaries (Types of variable holders)
+// Finally, we will show testMessage1 to the console, or screen with console.log()
 
-// [] = Array
-// {} = Dictionary
-
-// You can store variables in dictionaries and arrays
-// When you declare a dictionary or array, you give it a name, which is also a variable. 
-
-let testArray = []; // Notice the []
-let testDict = {};  // Notice the {}
-
-// To store the variable testVar in the array testArray, use the following code .push()
-
-testArray.push(testVar); // TestVar goes in TestArray
-
-
-// Now testArray should contain testVar, which contains the phrase "Hello World"
-
-// Next, we will show testArray to the console, or screen with console.log()
-
-console.log(testArray);
+console.log(testMessage1);
