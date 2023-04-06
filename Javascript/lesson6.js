@@ -31,9 +31,6 @@ testDict = {
 
 // Dictionaries can be read from and added to in the following ways.
 
+// Read 
 console.log(testDict["Message1"]);
-
-
-// Read Message1 to console
-
-console.log(testDict.Message1);
+console.log(testDict.Message1);  // Same, same
